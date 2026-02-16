@@ -188,7 +188,7 @@ An entry-level data analyst position where I can:
 I'm early in my career, but I'm not starting from zero. I've put in the hours to learn the tools, build the projects, and develop the mindset of an analyst. I'm looking for a team that values drive and aptitude over years of experience.
 
 **Beyond Work:**
-I'm constantly learning—currently expanding my Python skills for data analysis. I believe in building in public, which is why this portfolio exists.
+I'm constantly learning, currently expanding my Python skills for data analysis. I believe in building in public, which is why this portfolio exists.
 
 ---
 
