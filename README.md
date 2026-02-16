@@ -1,4 +1,4 @@
-# 📊 Bassel Allaa - Data Analyst Portfolio
+#  Bassel Allaa - Data Analyst Portfolio
 
 <div align="center">
 
