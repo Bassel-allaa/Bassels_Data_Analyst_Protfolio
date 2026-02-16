@@ -228,6 +228,20 @@ Each project repository includes:
 
 ---
 
+
+## Certification
+
+- Foundations of Data Science (Google Issued Nov 2025
+Credential ID BC2DZHB9FBWL)
+- Google Data Analytics Specialization (Google Issued Apr 2025 Credential ID HCLITJRMBNN6)
+- Data Analysis with R Programming (Google Issued Dec 2024 Credential ID D0U64PUZJGDY)
+- Share Data Through the Art of Visualization (Google Issued Dec 2024 Credential ID 30Y4NHP92650)
+- Analyze Data to Answer Questions (Google Issued Dec 2024 Credential ID D5ZYP8SP8XW9)
+- Process Data from Dirty to Clean (Google Issued Nov 2024 Credential ID XJZRZZQE9FND)
+- Prepare Data for Exploration (Google Issued Nov 2024 Credential ID J0NUMD8DEEZT)
+- Ask Questions to Make Data-Driven Decisions (Google Issued Nov 2024 Credential ID J0TR1XAIMHTP)
+- Foundations: Data, Data, Everywhere (Google Issued Nov 2024 Credential ID WTK491RPYT79)
+
 ##  Let's Connect
 
 I'm actively seeking opportunities and open to collaboration!
@@ -235,6 +249,8 @@ I'm actively seeking opportunities and open to collaboration!
 <div align="center">
 
  **Email:** basel3la2@gmail.com
+
+ **Phone Number:** +201555552197
 
  [**LinkedIn**](https://www.linkedin.com/in/bassel-elseadawy-675414339/)
 
