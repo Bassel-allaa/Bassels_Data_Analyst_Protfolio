@@ -8,7 +8,7 @@
 
 **Transforming Data into Actionable Insights**
 
-[View Projects](#-featured-projects) • [About Me](#-about-me) • [Skills](#-technical-skills) • [Contact](#-lets-connect)
+[View Projects](#featured-projects) • [About Me](#about-me) • [Skills](#technical-skills) • [Contact](#-lets-connect)
 
 </div>
 
@@ -114,8 +114,8 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 **Overview:** Dual-component project featuring a salary exploration dashboard for job seekers and skills analysis examining what top employers seek in data professionals.
 
 **Key Components:**
-- 💼 **Salary Dashboard:** Interactive tool for exploring compensation by role, location, and experience
-- 🎓 **Skills Analysis:** Mapping of in-demand skills to salary potential
+-  **Salary Dashboard:** Interactive tool for exploring compensation by role, location, and experience
+-  **Skills Analysis:** Mapping of in-demand skills to salary potential
 
 **Technologies:** `Excel` `Dashboard Design` `Statistical Analysis`
 
