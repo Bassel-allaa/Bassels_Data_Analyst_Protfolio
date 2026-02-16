@@ -217,40 +217,41 @@ I believe in learning by doing. Every project in this portfolio represents hands
 
 ---
 
-## 📚 Project Repository Structure
+##  Project Repository Structure
 
 Each project repository includes:
-- ✅ **README.md** - Project overview, objectives, and key findings
-- 📊 **Data files** - Sample datasets or links to data sources
-- 💻 **Code/Queries** - SQL scripts, Excel files, or Power BI files
-- 📈 **Visualizations** - Dashboard screenshots and charts
-- 📝 **Documentation** - Analysis methodology and insights
+-  **README.md** - Project overview, objectives, and key findings
+-  **Data files** - Sample datasets or links to data sources
+-  **Code/Queries** - SQL scripts, Excel files, or Power BI files
+-  **Visualizations** - Dashboard screenshots and charts
+-  **Documentation** - Analysis methodology and insights
 
 ---
 
-## 💬 Let's Connect
+##  Let's Connect
 
 I'm actively seeking opportunities and open to collaboration!
 
 <div align="center">
 
-📧 [**Email**](basel3la2@gmail.com)
+ [**Email**](basel3la2@gmail.com)
 
-💼 [**LinkedIn**](https://www.linkedin.com/in/bassel-elseadawy-675414339/)  
-🐙 **GitHub:** [github.com/Bassel-allaa](https://github.com/Bassel-allaa)  
+ [**LinkedIn**](https://www.linkedin.com/in/bassel-elseadawy-675414339/)
 
-🌐 **Portfolio Site:** *Coming Soon*
+ [**GitHub**](https://github.com/Bassel-allaa)  
+
+ **Portfolio Site:** *Coming Soon*
 
 </div>
 
 ---
 
-## ⭐ Support This Portfolio
+##  Support This Portfolio
 
 If you find these projects helpful or inspiring:
-- ⭐ **Star this repository** to show your support
-- 🔄 **Share** with others who might benefit
-- 💬 **Reach out** with feedback or collaboration ideas
+-  **Star this repository** to show your support
+-  **Share** with others who might benefit
+-  **Reach out** with feedback or collaboration ideas
 
 ---
 
